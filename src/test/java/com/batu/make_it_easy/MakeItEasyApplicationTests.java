@@ -1,0 +1,13 @@
+package com.batu.make_it_easy;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MakeItEasyApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
